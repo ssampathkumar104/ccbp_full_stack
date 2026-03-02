@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.homepage{
+    background-color:#225db0;
+    padding:30px;
+    text-align: left;
+    color: white;
+    height: 100vh;
+    margin:30px;
+    
+}
+
+.fields-tiles{
+    background-color: #ffffff;
+    text-align: center;
+    color:#1f2933;
+    border-radius: 5px;
+    /* padding:10px; */
+    width: 300px;
+    height: 150px;
+}
+
+.tiles-details{
+    margin: 30px;
+    /* text-align: left; */
+}
+
+.detailed-view{
+    background-color:#225db0;
+    padding:30px;
+    height:100vh;
+    margin: 15px;
+    
+}
+
+.detailed-view-header{
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight:normal;
+    color:#ffffff;
+    margin-top:15px;
+}
+
+.detailed-view-list{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight:normal;
+    color:#ffffff;
+    margin-top:15px;
+}
+
+.button{
+    color:#ffffff;
+    width: 120px;
+    height:50px;
+    background-color:#225db0;
+    border-radius:5px;
+    border-color: #ffffff;
+}

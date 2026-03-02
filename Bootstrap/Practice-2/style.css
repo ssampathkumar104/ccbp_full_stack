@@ -1,0 +1,43 @@
+.bg-container{
+    text-align: center;
+    color: white;
+    font-family: "Roboto";
+    font-weight: 500;
+    padding: 18px;
+    background-color: #323f4b;
+}
+
+.message-sent{
+    text-align: right;
+    background-color: #47a3f3;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.message-received{
+    text-align: left;
+    background-color: #52606d;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.img{
+    background-image: url("chatbot.png");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+
+.message-container{
+    padding: 20px;
+}
+
+.message-text{
+    color: #ffffff;
+    font-size: 14px;
+    font-family: "Roboto";
+    padding: 14px;
+
+}

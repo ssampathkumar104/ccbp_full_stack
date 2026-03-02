@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.h-center{
+    text-align: center;
+}
+
+.h-left{
+    text-align: left;
+}
+
+.h-right{
+    text-align: right;
+}
+
+.main-heading{
+    color:skyblue;
+}
+
+.paragraph {
+    color: darkslategray;
+}
+
+.card{
+    background-color: azure;
+    font-family: cursive;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 10px;
+    text-align: center;
+}
+
+.heading{
+    color:skyblue;
+    font-family: cursive;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+    text-align: center;
+}
+
+.box{
+    color:skyblue;
+    font-family: cursive;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+    background-image:url(https://fastly.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I) ;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    background-size: cover;
+
+}
+
+.button{
+    color: white;
+    width: 136px;
+    height: 36px;
+    border-radius: 18px;
+    /* background-color: blueviolet; */
+    border-width: 0px;
+    border-style: hidden;
+}
+
+.image{
+    background-image:url(https://fastly.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I) ;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+}
+
+.button-green{
+    background-color: green;
+}
+
+.button-orange{
+    background-color: orange;
+}
