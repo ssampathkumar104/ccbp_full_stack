@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.portfolio-website-testimonials {
+    background-color: #1f2933;
+    text-align: center;
+    padding: 10px;
+}
+
+.page-title {
+    color: #cced00;
+    text-align: left;
+}
+
+.content-tile {
+    color: white;
+    text-align: left;
+}
+
+.carousel-section {
+    background-color: #323f4b;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.img-details {
+    width: 40px;
+    height: 40px;
+}
+
+.description {
+    color: #9aa5b1;
+
+}
+
+.title {
+    color: white;
+}
+
+.chevron-icons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+}
