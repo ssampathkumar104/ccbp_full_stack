@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.e-commerce-website-trending-logs {
+    text-align: left;
+    background-color: white;
+    color: #183b56;
+    padding: 15px;
+}
+
+.main-heading {
+    font-weight: bold;
+}
+
+.topic-image {
+    width: 100%;
+}
+
+.sub-heading {
+    color: #959ead;
+}
+
+.topic-heading {
+    color: #183b56;
+    font-size: 35px;
+}
+
+.topic-description {
+    color: #959ead;
+    font-size: 28px;
+}
+
+.trending-topics-tile {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: white;
+}
+
+.read-more-section {
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.hyper-link-section {
+    color: #ff9f00;
+}
