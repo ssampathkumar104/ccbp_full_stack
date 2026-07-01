@@ -1,4 +1,4 @@
-# CCBP Full Stack — HTML & CSS Practice
+# HTML & CSS Practice
 
 ## Introduction
 This repository is a portfolio of hands-on front-end exercises and small projects focused on HTML, CSS, responsive layouts, and Bootstrap authored by S Sampath Kumar. It collects structured practice work and assignments that demonstrate core web layout and styling techniques, from basic semantic markup to responsive grid systems and component integration.
